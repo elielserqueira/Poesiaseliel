@@ -1,5 +1,5 @@
 .container-fluid {
     height: 100vh;
-    background-image: url(../assets/background.jpg);
+    background-image: url('../assets/background.jpg');
     margin-top: -1%;
 }
